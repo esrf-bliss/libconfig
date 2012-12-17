@@ -25,3 +25,6 @@ tests/libconfig_tests
 .libs
 *.la
 *.a
+lib/libconfig*.Debug
+lib/libconfig*.Release
+lib/libconfig*.vcproj.*
