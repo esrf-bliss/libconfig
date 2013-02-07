@@ -28,3 +28,4 @@ tests/libconfig_tests
 lib/libconfig*.Debug
 lib/libconfig*.Release
 lib/libconfig*.vcproj.*
+lib/x64/*
